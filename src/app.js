@@ -11,7 +11,7 @@ let what = ['my homework', 'my phone', 'the car'];
 let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was praying'];
 
 function getRandomNumber(a, b) {
-  return Math.floor(math.random() * (b - a) + a);
+  return Math.floor(Math.random() * (b - a) + a);
 }
 
 function getRandom(anyArray){
